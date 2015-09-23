@@ -15,4 +15,4 @@ fi
 
 mv .git-flow-version.new git-flow-version
 git add git-flow-version
-git commit -m "Bumped version number to $1" git-flow-version
+git commit -m "Bump version number to $1" git-flow-version
